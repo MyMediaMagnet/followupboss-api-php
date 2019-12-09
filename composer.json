@@ -2,7 +2,7 @@
   "name": "mymediamagnet/followupboss-api-php",
   "description": "PHP Interface for FollowUpBoss.",
   "keywords": ["api", "followupboss", "crm"],
-  "license": "DBAD",
+  "license": "MIT",
   "authors": [
     {
       "name": "Troy Jaggard",
