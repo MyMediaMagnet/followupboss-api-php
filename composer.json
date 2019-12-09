@@ -6,13 +6,13 @@
   "authors": [
     {
       "name": "Troy Jaggard",
-      "email": "info@homeup.ca"
+      "email": "troy@developerplus.ca"
     }
   ],
   "type": "library",
   "require": {
-    "php": ">=5.4",
-    "guzzlehttp/guzzle": "*",
+    "php": ">=7.1.0",
+    "guzzlehttp/guzzle": "^6.0",
     "vlucas/phpdotenv": "^2.4",
     "nesbot/carbon": "^1.22"
   },
