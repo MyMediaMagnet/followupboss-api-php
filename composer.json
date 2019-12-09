@@ -1,5 +1,5 @@
 {
-  "name": "homeup/followupboss-php-api",
+  "name": "mymediamagnet/followupboss-api-php",
   "description": "PHP Interface for FollowUpBoss.",
   "keywords": ["api", "followupboss", "crm"],
   "license": "DBAD",
@@ -12,7 +12,7 @@
   "type": "library",
   "require": {
     "php": ">=5.4",
-    "guzzlehttp/guzzle": "^6.2",
+    "guzzlehttp/guzzle": "*",
     "vlucas/phpdotenv": "^2.4",
     "nesbot/carbon": "^1.22"
   },
